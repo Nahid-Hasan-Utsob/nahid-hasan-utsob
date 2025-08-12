@@ -23,7 +23,6 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Hasan-Utsob&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nahid-Hasan-Utsob&theme=radical">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nahid-Hasan-Utsob&theme=radical&utcOffset=8">
 </div>
 
 </div><br>
