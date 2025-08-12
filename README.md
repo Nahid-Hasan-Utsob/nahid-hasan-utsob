@@ -1,6 +1,11 @@
 # 💫 About Me:
 💻 Full Stack Web Developer | MERN Stack Enthusiast<br>Passionate about building modern, scalable, and user-friendly web applications using MongoDB, Express.js, React, and Node.js.<br>Always learning, exploring new technologies, and crafting clean, efficient code. 🚀
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/utsob.rowza.jami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahid-hasan-utsob) 
