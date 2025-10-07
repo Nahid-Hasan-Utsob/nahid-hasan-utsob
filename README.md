@@ -6,9 +6,6 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 [![Nahid-Instagram](https://img.shields.io/badge/Instagram-Nahid%20-red?logo=instagram&logoColor=white)](https://www.instagram.com/utsob.rowza.jami) [![Nahid-Facebook](https://img.shields.io/badge/Facebook-Nahid%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/utsob.rowza.jami) [![Nahid-LinkedIn](https://img.shields.io/badge/LinkedIn-Nahid%20-green?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nahid-Hasan-Utsob)
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 I Know:
