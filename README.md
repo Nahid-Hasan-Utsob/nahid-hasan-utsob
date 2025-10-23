@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 Full Stack Web Developer | MERN Stack Enthusiast<br>Passionate about building modern, scalable, and user-friendly web applications using MongoDB, Express.js, React, and Node.js.<br>Always learning, exploring new technologies, and crafting clean, efficient code. 🚀
+💻 I’m Nahid Hasan
+a Frontend Developer who builds fast, scalable apps 🚀
+Skilled Frontend Developer proficient in React.js, JavaScript, TypeScript, Tailwind CSS, and Redux Toolkit. Experienced in building responsive, modern, and user-friendly web interfaces and converting Figma designs into clean, production-ready code. 🚀
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and LinkedIn.
 
